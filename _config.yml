@@ -1,0 +1,15 @@
+theme: minima
+title: Test TRAVIS CI integration for GitHub pages
+description: This is just a test page
+
+author: Daniel Leidert
+email: daniel.leidert@wgdd.de
+
+lang: en
+
+plugins:
+ - jekyll-feed
+ - jekyll-paginate
+ - jekyll-redirect-from
+ - jekyll-seo-tag
+ - jekyll-sitemap
